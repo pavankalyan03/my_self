@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+Welcome+to+our+Github%3C3;Real+Gear+Inc+!!!;Please+enjoy+our+projects!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+Welcome+to+our+Github%3C3;Pavan+Kalyan+Kotha+!!!"
+    alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
@@ -7,7 +8,7 @@
 Welcome to our github **Real Gear Inc** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - 👤: I'm a self taught app developer 😃
 - 😅: I'm providing advanced **Android Studio Libraries** & **Completed Project Tutorials** 🐧
-- 🌍: I'm located in **South Africa**
+- 🌍: I'm located in **INDIA**
 - 😎: My motto is **_"This is workin' on something till nothing is left"_**
 - 👌: Fun fact: eat 👉: code 👉: music 👉: sleep 👉: repeat ~~ everything
 
@@ -49,5 +50,3 @@ Welcome to our github **Real Gear Inc** <img src="https://i.pinimg.com/originals
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Riccardo March
 </div>
-
-Credits: [Shourya Sharma](https://github.com/Shourya742)
