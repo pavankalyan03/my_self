@@ -36,7 +36,6 @@ Welcome to our github **Real Gear Inc** <img src="https://i.pinimg.com/originals
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
